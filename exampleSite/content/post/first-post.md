@@ -10,12 +10,12 @@ tags:
   - Michigan
 categories:
   - Poem
-draft: true
-comment: true
+draft: false
+comment: false
 toc: true
 autoCollapseToc: true
 contentCopyright: 'No'
-reward: true
+reward: false
 mathjax: true
 ---
 Kadang bila ku berseorangan
