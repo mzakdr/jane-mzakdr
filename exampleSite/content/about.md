@@ -1,22 +1,17 @@
 ---
 title: About
-date: '2017-08-20T21:38:52+08:00'
-lastmod: '2017-08-28T21:41:52+08:00'
+date: 2019-11-29T17:38:00.000Z
+lastmod: 2019-11-29T18:41:52.000Z
 menu: main
 weight: 50
-comment: false
-mathjax: false
+comment: true
+mathjax: true
 ---
+Muza is trying to write and share.
 
-Hugo is a static site engine written in Go.
+Some plans so far: 
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+* Notes
+* Poems
+* Transcripts
+* Dreams and aspirations
