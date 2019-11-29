@@ -2,7 +2,7 @@ title = "Muza"
 baseURL = "mzakdr.com"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "muza"
+theme = "Muza"
 hasCJKLanguage = false
 paginate = 3
 rssLimit = 20
@@ -17,7 +17,7 @@ defaultContentLanguage = "en"
 languageCode = ""
 
 [author]
-name = "muza"
+name = "Muza"
 
 [sitemap]
 changefreq = "weekly"
