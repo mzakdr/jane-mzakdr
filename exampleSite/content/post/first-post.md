@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: My First Post
 description: 'A note I wrote back in November, 2013; Ann Arbor, MI'
 author: Muza
 date: 2019-11-29T17:42:36.923Z
@@ -18,46 +18,46 @@ contentCopyright: 'No'
 reward: false
 mathjax: true
 ---
-Kadang bila ku berseorangan
-
-Berteman sepi
-
-Berhujah sendirian bersama Tuhan
-
-Memikir kesilapan lalu dan segala kesalan
-
-Ku merintih menitis air pilu mengharapkan semuanya dalam panduan
+**A note I wrote back in November, 2013; Ann Arbor, MI**
 
 
 
-Sejuk hening angin bertiup
+`Kadang bila ku berseorangan`
 
-Kala pokok bermanja kemerahan
+`Berteman sepi`
 
-Kurangnya bersyukur membekalkan hati hitam penuh sombong
+`Berhujah sendirian bersama Tuhan`
 
-Sedangkan langit hitam tidak hujan bukannya ia bohong
+`Memikir kesilapan lalu dan segala kesalan`
 
-Cuma diri yang lemah tiada pendirian berpatah kosong
+`Ku merintih menitis air pilu mengharapkan semuanya dalam panduan`
 
-Dimanakah makna tanpa kelakuan sama diusung
+`Sejuk hening angin bertiup`
 
+`Kala pokok bermanja kemerahan`
 
+`Kurangnya bersyukur membekalkan hati hitam penuh sombong`
 
-Berhujah tidak bermadah
+`Sedangkan langit hitam tidak hujan bukannya ia bohong`
 
-Mereka katakan kurang siuman kurang ajar kurang minda puncaknya patah
+`Cuma diri yang lemah tiada pendirian berpatah kosong`
 
-Dengarkan manusia hampa
+`Dimanakah makna tanpa kelakuan sama diusung`
 
-Berkata tanpa aksi bagai mengubi tak berisi
+`Berhujah tidak bermadah`
 
-Ternak rimau tanpa belang, konon berilmu tanpa pedang, basah melayu kalau goncang
+`Mereka katakan kurang siuman kurang ajar kurang minda puncaknya patah`
 
-Sudah pasti kosong penuhi ruang
+`Dengarkan manusia hampa`
 
-Khutbah kering tanpa orang
+`Berkata tanpa aksi bagai mengubi tak berisi`
 
-Jasad wujud tiada minda 
+`Ternak rimau tanpa belang, konon berilmu tanpa pedang, basah melayu kalau goncang`
 
-Hati busuk tidak boleh berubah
+`Sudah pasti kosong penuhi ruang`
+
+`Khutbah kering tanpa orang`
+
+`Jasad wujud tiada minda `
+
+`Hati busuk tidak boleh berubah`
