@@ -52,7 +52,7 @@ weight = 40
 
 [[menu.main]]
 name = "external-link"
-url = "https://quran.com/72"
+url = "https://quran.com/73"
 weight = 50
 
 [params]
