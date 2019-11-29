@@ -1,0 +1,87 @@
+title = "Jane - A super concise theme for Hugo"
+baseURL = "http://localhost:1313/"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
+hasCJKLanguage = true
+paginate = 3
+rssLimit = 20
+disqusShortname = ""
+googleAnalytics = ""
+copyright = ""
+defaultContentLanguage = "en"
+
+[languages.en]
+languageCode = "en"
+
+[author]
+name = "xianmin"
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[[menu.main]]
+name = "This is Home"
+weight = 10
+identifier = "home"
+url = "/"
+
+[[menu.main]]
+name = "Archives"
+weight = 20
+identifier = "archives"
+url = "/post/"
+
+[[menu.main]]
+name = "Tags"
+weight = 30
+identifier = "tags"
+url = "/tags/"
+
+[[menu.main]]
+name = "Categories"
+weight = 40
+identifier = "categories"
+url = "/categories/"
+
+[[menu.main]]
+name = "external-link"
+weight = 50
+url = "https://gohugo.io"
+
+[params]
+since = "2017"
+homeFullContent = false
+rssFullContent = true
+logoTitle = "Jane"
+keywords = [ "Hugo", "theme", "jane" ]
+description = "Hugo theme jane example site."
+dateFormatToUse = "2006-01-02"
+toc = true
+photoswipe = true
+contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+customCSS = [ ]
+customJS = [ ]
+
+  [params.social]
+  a-email = "mailto:your@email.com"
+  b-stack-overflow = "http://localhost:1313"
+  c-twitter = "http://localhost:1313"
+  d-facebook = "http://localhost:1313"
+  e-linkedin = "http://localhost:1313"
+  f-google = "http://localhost:1313"
+  g-github = "http://localhost:1313"
+  h-weibo = "http://localhost:1313"
+  i-zhihu = "http://localhost:1313"
+  j-douban = "http://localhost:1313"
+  k-pocket = "http://localhost:1313"
+  l-tumblr = "http://localhost:1313"
+  m-instagram = "http://localhost:1313"
+  n-gitlab = "http://localhost:1313"
+  o-goodreads = "http://localhost:1313"
+  p-coding = "http://localhost:1313"
+  q-bilibili = "http://localhost:1313"
+  r-codeforces = "http://localhost:1313"
+  s-mastodon = "http://localhost:1313"
