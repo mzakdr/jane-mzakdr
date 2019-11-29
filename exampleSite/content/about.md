@@ -7,7 +7,7 @@ weight: 50
 comment: true
 mathjax: true
 ---
-Muza is trying to write and share.
+Muza is trying to write and travel.
 
 Some plans so far: 
 
