@@ -1,7 +1,8 @@
 ---
-title: Creating a New Theme
+title: 'First Post: How to use this theme'
 author: Michael Henderson
 date: '2014-09-28'
+lastmod: 2019-11-29T17:19:20.307Z
 tags:
   - go
   - golang
