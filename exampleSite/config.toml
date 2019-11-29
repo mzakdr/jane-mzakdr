@@ -1,9 +1,9 @@
-title = "Jane - A super concise theme for Hugo"
-baseURL = "http://localhost:1313/"
+title = "Muza"
+baseURL = "mzakdr.com"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
-hasCJKLanguage = true
+hasCJKLanguage = false
 paginate = 3
 rssLimit = 20
 disqusShortname = ""
@@ -11,77 +11,81 @@ googleAnalytics = ""
 copyright = ""
 defaultContentLanguage = "en"
 
+[languages]
+
 [languages.en]
-languageCode = "en"
+languageCode = ""
 
 [author]
-name = "xianmin"
+name = "muza"
 
 [sitemap]
 changefreq = "weekly"
-priority = 0.5
 filename = "sitemap.xml"
+priority = 0.5
+
+[menu]
 
 [[menu.main]]
-name = "This is Home"
-weight = 10
 identifier = "home"
+name = "This is Home"
 url = "/"
+weight = 10
 
 [[menu.main]]
-name = "Archives"
-weight = 20
 identifier = "archives"
+name = "Archives"
 url = "/post/"
+weight = 20
 
 [[menu.main]]
-name = "Tags"
-weight = 30
 identifier = "tags"
+name = "Tags"
 url = "/tags/"
+weight = 30
 
 [[menu.main]]
-name = "Categories"
-weight = 40
 identifier = "categories"
+name = "Categories"
 url = "/categories/"
+weight = 40
 
 [[menu.main]]
 name = "external-link"
+url = "https://quran.com/72"
 weight = 50
-url = "https://gohugo.io"
 
 [params]
-since = "2017"
+contentCopyright = "<a rel=\"license noopener\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\" target=\"_blank\">CC BY-NC-ND 4.0</a>"
+customCSS = []
+customJS = []
+dateFormatToUse = "2006-Jan-02"
+description = "mzakdr's dreams and aspirations"
 homeFullContent = false
-rssFullContent = true
-logoTitle = "Jane"
-keywords = [ "Hugo", "theme", "jane" ]
-description = "Hugo theme jane example site."
-dateFormatToUse = "2006-01-02"
-toc = true
+keywords = ["mzakdr", "blog", "note"]
+logoTitle = "Muza"
 photoswipe = true
-contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
-customCSS = [ ]
-customJS = [ ]
+rssFullContent = true
+since = "2019"
+toc = true
 
-  [params.social]
-  a-email = "mailto:your@email.com"
-  b-stack-overflow = "http://localhost:1313"
-  c-twitter = "http://localhost:1313"
-  d-facebook = "http://localhost:1313"
-  e-linkedin = "http://localhost:1313"
-  f-google = "http://localhost:1313"
-  g-github = "http://localhost:1313"
-  h-weibo = "http://localhost:1313"
-  i-zhihu = "http://localhost:1313"
-  j-douban = "http://localhost:1313"
-  k-pocket = "http://localhost:1313"
-  l-tumblr = "http://localhost:1313"
-  m-instagram = "http://localhost:1313"
-  n-gitlab = "http://localhost:1313"
-  o-goodreads = "http://localhost:1313"
-  p-coding = "http://localhost:1313"
-  q-bilibili = "http://localhost:1313"
-  r-codeforces = "http://localhost:1313"
-  s-mastodon = "http://localhost:1313"
+[params.social]
+a-email = "mailto:mzakdr@gmail.com"
+b-stack-overflow = ""
+c-twitter = "http://twitter.com/mzakdr"
+d-facebook = ""
+e-linkedin = "linkedin.com/in/muzaabdul"
+f-google = ""
+g-github = "github.com/mzakdr"
+h-weibo = ""
+i-zhihu = ""
+j-douban = ""
+k-pocket = ""
+l-tumblr = ""
+m-instagram = "instagram.com/mzakdr"
+n-gitlab = ""
+o-goodreads = ""
+p-coding = ""
+q-bilibili = ""
+r-codeforces = ""
+s-mastodon = ""
