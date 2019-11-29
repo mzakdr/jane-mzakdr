@@ -9,10 +9,10 @@ tags:
 categories:
   - Poem
 comment: true
-toc: true
+toc: false
 contentCopyright: 'No'
-reward: true
-weight: 3
+reward: false
+weight: 2
 ---
 **“The minute I heard my first love story,**
 
